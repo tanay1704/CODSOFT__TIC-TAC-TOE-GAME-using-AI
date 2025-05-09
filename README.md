@@ -1,4 +1,4 @@
-# CODSOFT__TIC-TAC-TOE-GAME-using-AI
+# TIC-TAC-TOE-GAME-using-AI
 
 A classic game of Tic Tac Toe, reimagined with Artificial Intelligence and built using Python and Tkinter.
 Play against an AI opponent that adapts based on difficulty levels — from casual to unbeatable!
